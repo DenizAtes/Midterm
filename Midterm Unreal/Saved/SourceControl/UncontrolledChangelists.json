@@ -1,0 +1,47 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/berke/OneDrive/Belgeler/Unreal Projects/Midterm/Content/Midterm/MidtermMap.umap",
+				"C:/Users/berke/OneDrive/Belgeler/Unreal Projects/Midterm/Content/Midterm/BP_MazeCell.uasset",
+				"C:/Users/berke/OneDrive/Belgeler/Unreal Projects/Midterm/Content/Midterm/Spike/SpikeTrap_HideAnimation_Anim.uasset",
+				"C:/Users/berke/OneDrive/Belgeler/Unreal Projects/Midterm/Content/Midterm/Spike/SpikeTrap_HideAnimation_PhysicsAsset.uasset",
+				"C:/Users/berke/OneDrive/Belgeler/Unreal Projects/Midterm/Content/Midterm/Spike/SpikeTrap_HideAnimation_Skeleton.uasset",
+				"C:/Users/berke/OneDrive/Belgeler/Unreal Projects/Midterm/Content/Midterm/Spike/lambert1.uasset",
+				"C:/Users/berke/OneDrive/Belgeler/Unreal Projects/Midterm/Content/Midterm/Spike/SpikeTrap_HideAnimation.uasset",
+				"C:/Users/berke/OneDrive/Belgeler/Unreal Projects/Midterm/Content/Midterm/Spike/BP_SpikeTrap.uasset",
+				"C:/Users/berke/OneDrive/Belgeler/Unreal Projects/Midterm/Content/Midterm/Spike/ABP_SpikeTrap.uasset",
+				"C:/Users/berke/OneDrive/Belgeler/Unreal Projects/Midterm/Content/Midterm/Spike/SpikeTrap_Idle.uasset",
+				"C:/Users/berke/OneDrive/Belgeler/Unreal Projects/Midterm/Content/Midterm/axe/Axe.uasset",
+				"C:/Users/berke/OneDrive/Belgeler/Unreal Projects/Midterm/Content/Midterm/axe/Axe1.uasset",
+				"C:/Users/berke/OneDrive/Belgeler/Unreal Projects/Midterm/Content/Midterm/axe/Gold.uasset",
+				"C:/Users/berke/OneDrive/Belgeler/Unreal Projects/Midterm/Content/Midterm/axe/Wood.uasset",
+				"C:/Users/berke/OneDrive/Belgeler/Unreal Projects/Midterm/Content/Midterm/axe/BP_AxeTrap.uasset",
+				"C:/Users/berke/OneDrive/Belgeler/Unreal Projects/Midterm/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/berke/OneDrive/Belgeler/Unreal Projects/Midterm/Content/Midterm/PoisonArea/BP_PoisonTrap.uasset",
+				"C:/Users/berke/OneDrive/Belgeler/Unreal Projects/Midterm/Content/Midterm/BP_TrapDeactive.uasset",
+				"C:/Users/berke/OneDrive/Belgeler/Unreal Projects/Midterm/Content/Midterm/BP_SpikeDeactive.uasset",
+				"C:/Users/berke/OneDrive/Belgeler/Unreal Projects/Midterm/Content/LevelPrototyping/Materials/MI_Solid_Green.uasset",
+				"C:/Users/berke/OneDrive/Belgeler/Unreal Projects/Midterm/Content/LevelPrototyping/Materials/MI_Solid_Red.uasset",
+				"C:/Users/berke/OneDrive/Belgeler/Unreal Projects/Midterm/Content/Midterm/BP_AxeDeactive.uasset",
+				"C:/Users/berke/OneDrive/Belgeler/Unreal Projects/Midterm/Content/Midterm/BP_PoisonDeactive.uasset",
+				"C:/Users/berke/OneDrive/Belgeler/Unreal Projects/Midterm/Content/Midterm/BP_HealtKit.uasset",
+				"C:/Users/berke/OneDrive/Belgeler/Unreal Projects/Midterm/Content/LevelPrototyping/Materials/MI_Solid_White.uasset",
+				"C:/Users/berke/OneDrive/Belgeler/Unreal Projects/Midterm/Content/Midterm/TrapDeactive/BP_AxeDeactive.uasset",
+				"C:/Users/berke/OneDrive/Belgeler/Unreal Projects/Midterm/Content/Midterm/TrapDeactive/BP_PoisonDeactive.uasset",
+				"C:/Users/berke/OneDrive/Belgeler/Unreal Projects/Midterm/Content/Midterm/TrapDeactive/BP_SpikeDeactive.uasset",
+				"C:/Users/berke/OneDrive/Belgeler/Unreal Projects/Midterm/Content/Midterm/Others/BP_HealtKit.uasset",
+				"C:/Users/berke/OneDrive/Belgeler/Unreal Projects/Midterm/Content/Midterm/Others/BP_MazeCell.uasset",
+				"C:/Users/berke/OneDrive/Belgeler/Unreal Projects/Midterm/Content/Midterm/Others/Health_Bar.uasset",
+				"C:/Users/berke/OneDrive/Belgeler/Unreal Projects/Midterm/Content/Midterm/NewFolder/SpikeTrap_HideAnimation_Skeleton.uasset",
+				"C:/Users/berke/OneDrive/Belgeler/Unreal Projects/Midterm/Content/Midterm/NewFolder/SpikeTrap_HideAnimation_PhysicsAsset.uasset",
+				"C:/Users/berke/OneDrive/Belgeler/Unreal Projects/Midterm/Content/Midterm/NewFolder/SpikeTrap_HideAnimation_Anim.uasset",
+				"C:/Users/berke/OneDrive/Belgeler/Unreal Projects/Midterm/Content/Midterm/NewFolder/SpikeTrap_HideAnimation.uasset",
+				"C:/Users/berke/OneDrive/Belgeler/Unreal Projects/Midterm/Content/Midterm/NewFolder/lambert1.uasset"
+			]
+		}
+	]
+}
